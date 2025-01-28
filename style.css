@@ -43,7 +43,7 @@ body{
 .first img{
     margin-top: 25px;
     width: 50px;
-    margin-left: 70px;
+    /* margin-left: 30px; */
 }
 
 
@@ -296,7 +296,7 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
     font-weight: 500;
     font-size: 32px;
     color: white;
-    margin-right: 750px;
+    margin-right: 650px;
 }
 .logos img{
     margin-top: 20px;
