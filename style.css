@@ -75,12 +75,6 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
 }
 
 
-.separator{
-    margin-left: 125px;
-    width: 70vw;
-    height: 2px;
-    background-color: rgb(160,181,198);
-}
 .about{
     display: flex;
     align-items: center;
@@ -119,6 +113,8 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
 .skill1 p{
     font-size: 18px;
     color: rgba(217, 217, 217, 1);
+    text-decoration: underline;
+    text-underline-offset: 10px;
 }
 
 
@@ -135,6 +131,8 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
 .skill2 p{
     font-size: 18px;
     color: rgba(217, 217, 217, 1);
+    text-decoration: underline;
+    text-underline-offset: 10px;
 }
 
 .skill3{
@@ -150,6 +148,8 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
     font-size: 18px;
     padding-left: 25px;
     color: rgba(217, 217, 217, 1);
+    text-decoration: underline;
+    text-underline-offset: 10px;
 }
 
 
@@ -197,7 +197,7 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
     font-size: 24px;
     font-weight:900;
     color: white;
-    margin-left: 100px;
+    margin-left: 20px;
     margin-bottom: 10px;
 }
 .used1, .used2{
@@ -205,7 +205,7 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
     font-size: 15px;
     font-weight:bold;
     color: rgba(217, 217, 217, 1);
-    margin-left: 100px;
+    margin-left: 20px;
 }
 .used1 span, .used2 span{
     margin-right: 10px;
@@ -222,12 +222,6 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
     color: rgb(160,181,198);
     margin-left: 50px;
     font-size: 75px;
-}
-.cm .separator{
-    margin-left: 100px;
-    width: 60vw;
-    height: 2px;
-    background-color: rgb(160,181,198);
 }
 .cmdesc{
     margin-top: 20px;
@@ -318,4 +312,20 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
     font-size: 20px;
     text-decoration: underline;
     text-underline-offset: 10px;
+}
+
+
+
+
+.separator{
+    margin-left: 125px;
+    width: 70vw;
+    height: 2px;
+    background-color: rgb(160,181,198);
+}
+.cm .separator{
+    margin-left: 100px;
+    width: 60vw;
+    height: 2px;
+    background-color: rgb(160,181,198);
 }
