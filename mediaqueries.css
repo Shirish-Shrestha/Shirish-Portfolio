@@ -17,6 +17,8 @@
       .first p {
         margin: 0 0 20px 70px !important; /* Force top position */
         font-size: 30px;
+        position:relative;
+        left: 25%;
       }
     
       .nav {
@@ -43,6 +45,8 @@
       .nav a {
         font-size: 15px !important;
         padding: 0 15px !important;
+        position:relative;
+        left: 25%;
       }
 
     /* Hero Section */
@@ -58,10 +62,12 @@
         margin-top: 0;
     }
     .desc .text p {
+        margin-top: 50px;
         font-size: 22px;
     }
     .desc .text h1 {
         font-size: 70px;
+        line-height: 60px;
     }
     .desc .img img {
         width: 100%;
@@ -221,6 +227,8 @@
     .first p {
         font-size: 28px;
         margin-left: 50px !important;
+        position:relative;
+        left: 25%;
     }
 
     .nav {
@@ -230,6 +238,8 @@
     .nav a {
         font-size: 14px !important;
         padding: 0 12px !important;
+        position:relative;
+        left: 25%;
     }
 
 
@@ -349,6 +359,8 @@
     .first p {
         font-size: 26px;
         margin-left: 40px !important;
+        position:relative;
+        left: 25%;
     }
 
     .nav {
@@ -358,6 +370,8 @@
     .nav a {
         font-size: 13px !important;
         padding: 0 10px !important;
+        position:relative;
+        left: 25%;
     }
 
    
@@ -482,6 +496,8 @@
     .first p {
         font-size: 24px;
         margin-left: 30px !important;
+        position:relative;
+        left: 25%;
     }
 
     .nav {
@@ -494,6 +510,8 @@
     .nav a {
         font-size: 12px !important;
         padding: 0 8px !important;
+        position:relative;
+        left: 25%;
     }
 
 
