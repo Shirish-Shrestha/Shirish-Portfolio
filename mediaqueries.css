@@ -45,8 +45,6 @@
       .nav a {
         font-size: 15px !important;
         padding: 0 15px !important;
-        position:relative;
-        left: 25%;
       }
 
     /* Hero Section */
@@ -238,8 +236,6 @@
     .nav a {
         font-size: 14px !important;
         padding: 0 12px !important;
-        position:relative;
-        left: 25%;
     }
 
 
@@ -370,8 +366,6 @@
     .nav a {
         font-size: 13px !important;
         padding: 0 10px !important;
-        position:relative;
-        left: 25%;
     }
 
    
@@ -510,8 +504,6 @@
     .nav a {
         font-size: 12px !important;
         padding: 0 8px !important;
-        position:relative;
-        left: 25%;
     }
 
 
