@@ -7,6 +7,7 @@ html{
 }
 body{
     background-color: rgb(33,31,32);
+    font-family: 'Poppins', sans-serif;
 }
 .first{
     display: flex;
@@ -15,7 +16,7 @@ body{
 .first p{
     margin-left: 50px;
     margin-top: 25px;
-    margin-right: 300px;
+    margin-right: 650px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 500;
     font-size: 32px;
@@ -23,9 +24,8 @@ body{
 }
 .first .nav{
     margin-top: 25px;
-    margin-right: 350px;
+    margin-right: 50px;
     color: white;
-    
 }
 .first .nav a{
     margin-top: 25px;
@@ -40,11 +40,6 @@ body{
     text-underline-offset: 5px;
 }    
 
-.first img{
-    margin-top: 25px;
-    width: 50px;
-    /* margin-left: 30px; */
-}
 
 
 
