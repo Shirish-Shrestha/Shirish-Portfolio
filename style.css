@@ -326,3 +326,8 @@ filter: drop-shadow(-10px 10px 20px rgb(122, 122, 122))
     height: 2px;
     background-color: rgb(160,181,198);
 }
+
+
+.footer .logos a img:hover{
+    scale: 1.2;
+}
